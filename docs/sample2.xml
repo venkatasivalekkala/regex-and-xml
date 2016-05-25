@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<CS635Document>
+	<header>Header 1</header>
+	<text>Text 1</text>
+	<CS635Document>
+		<header>Nested Header </header>
+	</CS635Document>
+	<header>Header 2</header>
+  <text>Text 2</text>
+</CS635Document>
